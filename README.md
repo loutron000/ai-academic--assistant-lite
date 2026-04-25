@@ -26,3 +26,10 @@ This is a simplified public demo version. The full project contains more advance
 ## 📌 Status
 
 Actively in development.
+
+## ▶️ Run Locally
+
+npm install  
+npm start  
+
+Server runs on http://localhost:3000
