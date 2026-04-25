@@ -33,3 +33,16 @@ npm install
 npm start  
 
 Server runs on http://localhost:3000
+
+## 🧪 Demo
+
+POST /ask  
+Body:
+{
+  "question": "What is AI?"
+}
+
+Response:
+{
+  "answer": "This is a demo response..."
+}
